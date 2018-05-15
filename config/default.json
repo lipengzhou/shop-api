@@ -12,9 +12,9 @@
 	"db_config" : {
 		"protocol" : "mysql",
 		"host" : "localhost",
-		"database" : "itcast_mall",
+		"database" : "shop",
 		"user" : "root",
 		"password" : "123456",
-		"port" : 3306	
+		"port" : 3306
 	}
 }
